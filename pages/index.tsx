@@ -69,10 +69,6 @@ const Home: NextPage = () => {
             <h2>instagram &rarr;</h2>
           </a>
 
-          <a href="https://www.threads.net/@stevejkang" target="_blank" className={styles.card}>
-            <h2>threads &rarr;</h2>
-          </a>
-
           <a href="https://twitter.com/stevejkang_" target="_blank" className={styles.card}>
             <h2>twitter &rarr;</h2>
           </a>
