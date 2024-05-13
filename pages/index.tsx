@@ -77,12 +77,8 @@ const Home: NextPage = () => {
             <h2>readcv &rarr;</h2>
           </a>
 
-          <a href="https://whattime.co.kr/stevejkang" target="_blank" className={styles.card}>
-            <h2>reservation(ko) &rarr;</h2>
-          </a>
-
           <a href="https://cal.com/stevejkang" target="_blank" className={styles.card}>
-            <h2>reservation(en) &rarr;</h2>
+            <h2>reservation &rarr;</h2>
           </a>
         </div>
       </main>
