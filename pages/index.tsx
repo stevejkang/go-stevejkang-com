@@ -41,14 +41,6 @@ const Home: NextPage = () => {
             <h2>email(high priority) &rarr;</h2>
           </a>
 
-          <a href="https://stevejkang.com" target="_blank" className={styles.card}>
-            <h2>⛔️ homepage(en) &rarr;</h2>
-          </a>
-
-          <a href="https://stevejkang.io" target="_blank" className={styles.card}>
-            <h2>🚧 pkm &rarr;</h2>
-          </a>
-
           <a href="https://github.com/stevejkang" target="_blank" className={styles.card}>
             <h2>github &rarr;</h2>
           </a>
@@ -58,11 +50,7 @@ const Home: NextPage = () => {
           </a>
 
           <a href="https://juneyoung.io" target="_blank" className={styles.card}>
-            <h2>blog(ko) &rarr;</h2>
-          </a>
-
-          <a href="https://medium.com/@stevejkang" target="_blank" className={styles.card}>
-            <h2>medium &rarr;</h2>
+            <h2>blog(🇰🇷) &rarr;</h2>
           </a>
 
           <a href="https://www.instagram.com/stevejkang" target="_blank" className={styles.card}>
@@ -73,12 +61,8 @@ const Home: NextPage = () => {
             <h2>twitter &rarr;</h2>
           </a>
 
-          <a href="https://read.cv/stevejkang" target="_blank" className={styles.card}>
-            <h2>readcv &rarr;</h2>
-          </a>
-
           <a href="https://cal.com/stevejkang" target="_blank" className={styles.card}>
-            <h2>reservation &rarr;</h2>
+            <h2>☕ or 🍣 &rarr;</h2>
           </a>
         </div>
       </main>
