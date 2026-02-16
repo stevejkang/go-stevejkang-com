@@ -27,10 +27,6 @@ const Home: NextPage = () => {
           Steve Kang
         </h1>
 
-        <p className={styles.description}>
-        
-        </p>
-
         <div className={styles.grid}>
           <a href="https://mailhide.io/e/0j4e5OLx" target="_blank" className={styles.card} rel="noreferrer">
             <h2>email(primary) &rarr;</h2>
