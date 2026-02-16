@@ -53,6 +53,13 @@
   font-size: 1rem;
 }
 
+.shortcut {
+  font-size: 0.7rem;
+  font-weight: 400;
+  opacity: 0.4;
+  margin-left: 0.3rem;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
