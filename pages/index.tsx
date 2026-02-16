@@ -52,8 +52,8 @@ const Home: NextPage = () => {
             <h2>instagram <span className={styles.shortcut}>/ig</span> &rarr;</h2>
           </a>
 
-          <a href="https://twitter.com/stevejkang_" target="_blank" className={styles.card} rel="noreferrer">
-            <h2>twitter <span className={styles.shortcut}>/x</span> &rarr;</h2>
+          <a href="https://x.com/stevejkang_" target="_blank" className={styles.card} rel="noreferrer">
+            <h2>x <span className={styles.shortcut}>/x</span> &rarr;</h2>
           </a>
 
           <a href="https://cal.com/stevejkang" target="_blank" className={styles.card} rel="noreferrer">

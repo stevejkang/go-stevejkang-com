@@ -8,7 +8,7 @@ const nextConfig: NextConfig = {
       { source: '/in', destination: 'https://www.linkedin.com/in/iam-stevejkang', permanent: false },
       { source: '/bg', destination: 'https://juneyoung.io', permanent: false },
       { source: '/ig', destination: 'https://www.instagram.com/stevejkang', permanent: false },
-      { source: '/x', destination: 'https://twitter.com/stevejkang_', permanent: false },
+      { source: '/x', destination: 'https://x.com/stevejkang_', permanent: false },
       { source: '/meet', destination: 'https://cal.com/stevejkang', permanent: false },
     ];
   },
