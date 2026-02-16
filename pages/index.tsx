@@ -40,27 +40,27 @@ const Home: NextPage = () => {
             <h2>email(high priority) &rarr;</h2>
           </a>
 
-          <a href="https://github.com/stevejkang" target="_blank" className={styles.card}>
+          <a href="https://github.com/stevejkang" target="_blank" className={styles.card} rel="noreferrer">
             <h2>github &rarr;</h2>
           </a>
 
-          <a href="https://www.linkedin.com/in/iam-stevejkang" target="_blank" className={styles.card}>
+          <a href="https://www.linkedin.com/in/iam-stevejkang" target="_blank" className={styles.card} rel="noreferrer">
             <h2>linkedin &rarr;</h2>
           </a>
 
-          <a href="https://juneyoung.io" target="_blank" className={styles.card}>
+          <a href="https://juneyoung.io" target="_blank" className={styles.card} rel="noreferrer">
             <h2>blog(🇰🇷) &rarr;</h2>
           </a>
 
-          <a href="https://www.instagram.com/stevejkang" target="_blank" className={styles.card}>
+          <a href="https://www.instagram.com/stevejkang" target="_blank" className={styles.card} rel="noreferrer">
             <h2>instagram &rarr;</h2>
           </a>
 
-          <a href="https://twitter.com/stevejkang_" target="_blank" className={styles.card}>
+          <a href="https://twitter.com/stevejkang_" target="_blank" className={styles.card} rel="noreferrer">
             <h2>twitter &rarr;</h2>
           </a>
 
-          <a href="https://cal.com/stevejkang" target="_blank" className={styles.card}>
+          <a href="https://cal.com/stevejkang" target="_blank" className={styles.card} rel="noreferrer">
             <h2>☕ or 🍣 &rarr;</h2>
           </a>
         </div>
